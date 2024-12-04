@@ -1,0 +1,15 @@
+{
+  "response_code":0,
+  "results":[
+    {"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"How long are all the cutscenes from Metal Gear Solid 4 (PS3, 2008) combined?","correct_answer":"8 hours","incorrect_answers":["4 hours","12 hours","5 hours"]},
+    {"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"According to Overwatch's lore, who was once a member of the Deadlock Gang?","correct_answer":"McCree","incorrect_answers":["Roadhog","Soldier 76","Junkrat"]},
+    {"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"The creator of the Touhou Project series is:","correct_answer":"ZUN","incorrect_answers":["SUN","RUN","PUN"]},
+    {"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Which of the following Elite Four members from the 6th Generation of Pok&eacute;mon was a member of Team Flare?","correct_answer":"Malva","incorrect_answers":["Siebold","Wikstrom","Drasna"]},
+    {"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"In Geometry Dash, what is level 13?","correct_answer":"Electroman Adventures","incorrect_answers":["Theory of Everything","Clubstep ","Clutterfunk"]},
+    {"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In &quot;Call Of Duty: Zombies&quot;, which map features the &quot;Fly Trap&quot; easter egg?","correct_answer":"Der Riese","incorrect_answers":["Tranzit","Call Of The Dead","Shi No Numa"]},
+    {"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"In &quot;Call Of Duty: Zombies&quot;, what is the name of the Pack-A-Punched Crossbow?","correct_answer":"Awful Lawton","incorrect_answers":["Longinus","V-R11","Predator"]},
+    {"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"In the video game Undertale, what Fun Value is required to obtain the Fake Hallway?","correct_answer":"66","incorrect_answers":["91","45","39"]},
+    {"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"What was the name of the Secret Organization in the Hotline Miami series? ","correct_answer":"50 Blessings","incorrect_answers":["American Blessings","50 Saints","USSR&#039;s Blessings"]},
+    {"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"How many voice channels does the Nintendo Entertainment System support natively?","correct_answer":"5","incorrect_answers":["4","6","3"]}
+  ]
+}
